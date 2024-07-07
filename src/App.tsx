@@ -109,7 +109,7 @@ function App() {
               </p>
             </div>
             <a
-              href="/src/assets/pdf/Kristian Mello - Resume.pdf"
+              href="https://raw.githubusercontent.com/kristianBM/kristianmello/403babe2ce78d9edaf7074819437f0dc375d8b4d/src/assets/pdf/Kristian%20Mello%20-%20Resume.pdf"
               target="_blank"
               className="know-me-button"
             >
