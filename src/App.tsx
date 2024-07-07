@@ -23,7 +23,7 @@ function App() {
       title: "ToDoList",
       description:
         "Welcome to ToDoList, a personal task management application designed to help you stay organized and productive. With ToDoList, you can easily add, edit, and delete tasks, ensuring that you keep track of all your important activities. Whether you're planning your daily chores, managing work assignments, or tracking long-term projects, ToDoList provides a simple and intuitive interface to manage your tasks efficiently.",
-      imageUrl: "src/assets/jpg/project-todolist.jpg",
+      imageUrl: "https://raw.githubusercontent.com/kristianBM/kristianmello/master/src/assets/jpg/project-todolist.jpg",
       projectUrl: "/todolist",
     },
     {
@@ -31,7 +31,7 @@ function App() {
       title: "TicketHub",
       description:
         "Welcome to TicketHub, an innovative marketplace for events designed to connect event organizers with attendees effortlessly. With uTickets, you can explore a wide range of events, from concerts and sports games to theater performances and community gatherings. Our platform makes it easy for event organizers to list their events and for users to discover, purchase, and manage their tickets all in one place.",
-      imageUrl: "src/assets/jpg/project-tickethub.jpg",
+      imageUrl: "https://raw.githubusercontent.com/kristianBM/kristianmello/master/src/assets/jpg/project-tickethub.jpg",
       projectUrl: "/tickethub",
     },
   ];
